@@ -1,10 +1,12 @@
-# Advertisement_Effectivness_Causal_Inference
+# Advertisement Effectivness: Causal Inference
+
+CS 7290 - Northeastern University - Olga Vitek
 
 ## Authors
 
-Shawn Martin
-Yi He
-Alexi Quintana Mathé
+- Shawn Martin
+- Yi He
+- Alexi Quintana Mathé
 
 ## Introduction
 
