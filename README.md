@@ -1,5 +1,13 @@
 # Advertisement_Effectivness_Causal_Inference
 
+## Authors
+
+Shawn Martin
+Yi He
+Alexi Quintana Mathé
+
+## Introduction
+
 Advertising campaigns have become a staple in any company looking to expand their network and customer base. Effectiveness of these advertisements are becoming more and more crucial as campaign costs are on the rise in this competitive market. It is important to track these advertisement campaigns such that companies can make better advertising decisions to maximize company revenue and outreach to the most appropriate customers. However, in the real world proper randomized control experiments are not always available and under this circumstance, the quantity of advertisement effectiveness is hard to measure.
 
 The goal of this project is to gauge the effect of an advertisement campaign by an online retailer on a search engine, using three datasets of observational data and imperfect randomized experiments. After conducting preliminary analysis on the observational data obtained by displaying the add on the search engine to some users and recording if they click on it or not and their behavior on the advertiser’s webpage, two imperfect randomized experiments have been conducted. We used causal inference methods to correct the effect of this imperfect randomizations and find the best approximation possible of the causal relation between showing the add and purchasing. 
